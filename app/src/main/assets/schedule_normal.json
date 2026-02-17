@@ -1,0 +1,86 @@
+{
+  "monday": [
+    {"time": "07:00", "event": "Breakfast"},
+    {"time": "08:00", "event": "A1 Class"},
+    {"time": "09:30", "event": "A2 Class"},
+    {"time": "11:00", "event": "B1 Class"},
+    {"time": "12:00", "event": "Lunch"},
+    {"time": "13:00", "event": "B2 Class"},
+    {"time": "14:30", "event": "C1 Class"},
+    {"time": "16:00", "event": "Free Period"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Study Hours"},
+    {"time": "21:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ],
+  "tuesday": [
+    {"time": "07:00", "event": "Breakfast"},
+    {"time": "08:00", "event": "D1 Class"},
+    {"time": "09:30", "event": "D2 Class"},
+    {"time": "11:00", "event": "E1 Class"},
+    {"time": "12:00", "event": "Lunch"},
+    {"time": "13:00", "event": "E2 Class"},
+    {"time": "14:30", "event": "F1 Class"},
+    {"time": "16:00", "event": "Free Period"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Study Hours"},
+    {"time": "21:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ],
+  "wednesday": [
+    {"time": "07:00", "event": "Breakfast"},
+    {"time": "08:00", "event": "A1 Class"},
+    {"time": "09:30", "event": "A2 Class"},
+    {"time": "11:00", "event": "B1 Class"},
+    {"time": "12:00", "event": "Lunch"},
+    {"time": "13:00", "event": "B2 Class"},
+    {"time": "14:30", "event": "C1 Class"},
+    {"time": "16:00", "event": "Free Period"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Study Hours"},
+    {"time": "21:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ],
+  "thursday": [
+    {"time": "07:00", "event": "Breakfast"},
+    {"time": "08:00", "event": "D1 Class"},
+    {"time": "09:30", "event": "D2 Class"},
+    {"time": "11:00", "event": "E1 Class"},
+    {"time": "12:00", "event": "Lunch"},
+    {"time": "13:00", "event": "E2 Class"},
+    {"time": "14:30", "event": "F1 Class"},
+    {"time": "16:00", "event": "Free Period"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Study Hours"},
+    {"time": "21:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ],
+  "friday": [
+    {"time": "07:00", "event": "Breakfast"},
+    {"time": "08:00", "event": "A1 Class"},
+    {"time": "09:30", "event": "A2 Class"},
+    {"time": "11:00", "event": "B1 Class"},
+    {"time": "12:00", "event": "Lunch"},
+    {"time": "13:00", "event": "B2 Class"},
+    {"time": "14:30", "event": "Free Period"},
+    {"time": "16:00", "event": "Free Time"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ],
+  "saturday": [
+    {"time": "09:00", "event": "Brunch"},
+    {"time": "12:00", "event": "Free Time"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Free Time"},
+    {"time": "23:30", "event": "Check-in"}
+  ],
+  "sunday": [
+    {"time": "09:00", "event": "Brunch"},
+    {"time": "12:00", "event": "Free Time"},
+    {"time": "17:30", "event": "Dinner"},
+    {"time": "19:00", "event": "Study Hours"},
+    {"time": "21:00", "event": "Free Time"},
+    {"time": "23:00", "event": "Check-in"}
+  ]
+}
